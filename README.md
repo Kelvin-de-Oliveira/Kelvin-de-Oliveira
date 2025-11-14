@@ -1,6 +1,3 @@
-Este README está disponível em **Português** e **Inglês**.  
-This README is available in **Portuguese** and **English**.
-
 - 🇧🇷 [Versão em Português](#-versão-em-português)
 - 🇺🇸 [English Version](#-english-version)
 
