@@ -1,4 +1,4 @@
-# Olá — sou o Kelvin 👋
+# Olá, sou o Kelvin 👋
 
 Sou **graduando em Engenharia de Software** na **Universidade Federal de Goiás**, tenho 24 anos, perfil **curioso e autodidata**, com foco em **backend** e objetivo de me tornar **fullstack**.  
 
