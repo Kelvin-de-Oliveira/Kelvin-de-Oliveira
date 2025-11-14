@@ -13,13 +13,31 @@ Tenho experiência com **desenvolvimento de APIs REST em Java e Spring**, além 
 
 ---
 
-## 🛠️ Habilidades Técnicas
-- **Linguagens:** Java, Python  
-- **APIs & Backend:** desenvolvimento e integração de APIs REST, Spring Boot  
-- **Dados & Machine Learning:** análise exploratória, pipelines e modelos básicos de ML  
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB  
-- **Controle de versão:** Git/GitHub  
-- **Ambiente:** Linux/WSL  
+## 🧰 Tecnologias & Ferramentas
+
+### 🚀 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🛠️ APIs & Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 📊 Dados & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### 🗄️ Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 🐳 Ambientes & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=windows-terminal&logoColor=white)
 
 ---
 
@@ -50,13 +68,31 @@ I have experience building **REST APIs with Java and Spring**, as well as workin
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** Java, Python  
-- **APIs & Backend:** REST API development and integration, Spring Boot  
-- **Data & Machine Learning:** exploratory analysis, pipelines, and basic ML models  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Version Control:** Git/GitHub  
-- **Environment:** Linux/WSL  
+## 🧰 Technologies & Tools
+
+### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🛠️ APIs & Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 📊 Data & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 🐳 Environments & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=windows-terminal&logoColor=white)
 
 ---
 
