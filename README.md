@@ -1,6 +1,6 @@
 # Olá, sou o Kelvin 👋
 
-Sou **graduando em Engenharia de Software** na **Universidade Federal de Goiás**, tenho 24 anos, perfil **curioso e autodidata**, com foco em **backend** e objetivo de me tornar **fullstack**.  
+Sou **graduando em Engenharia de Software** na Universidade Federal de Goiás, tenho 24 anos, perfil curioso e autodidata, com foco em **backend** e objetivo de me tornar **fullstack**.  
 
 Tenho experiência com **desenvolvimento de APIs REST em Java e Spring**, além de **Python** para **análise de dados e Machine Learning**.
 
