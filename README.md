@@ -1,4 +1,4 @@
-- 🇧🇷 [Português](#portugues)
+- 🇧🇷 [Português](#português)
 - 🇺🇸 [English](#english)
 
 ---
