@@ -1,5 +1,5 @@
-- 🇧🇷 [Português](#portugues)
-- 🇺🇸 [English](#english)
+- 🇧🇷 [Português](##portugues)
+- 🇺🇸 [English](##english)
 
 ---
 
