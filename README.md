@@ -1,5 +1,3 @@
-# 🌎 README — Português | English
-
 Este README está disponível em **Português** e **Inglês**.  
 This README is available in **Portuguese** and **English**.
 
