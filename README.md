@@ -3,7 +3,7 @@
 
 ---
 
-# 🇧🇷 Portugues
+## 🇧🇷 Português
 
 # 👋 Olá, sou o Kelvin
 
@@ -40,7 +40,7 @@ Tenho experiência com **desenvolvimento de APIs REST em Java e Spring**, além 
 
 ---
 
-# 🇺🇸 English
+## 🇺🇸 English
 
 # 👋 Hi, I'm Kelvin
 
