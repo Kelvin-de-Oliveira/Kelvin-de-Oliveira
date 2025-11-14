@@ -1,9 +1,9 @@
-- 🇧🇷 [Português](#português)
-- 🇺🇸 [English](#english)
+- 🇧🇷 [Versão em Português](#-versão-em-português)
+- 🇺🇸 [English Version](#-english-version)
 
 ---
 
-# 🇧🇷 Português
+# 🇧🇷 Versão em Português
 
 # 👋 Olá, sou o Kelvin
 
@@ -40,7 +40,7 @@ Tenho experiência com **desenvolvimento de APIs REST em Java e Spring**, além 
 
 ---
 
-# 🇺🇸 English
+# 🇺🇸 English Version
 
 # 👋 Hi, I'm Kelvin
 
