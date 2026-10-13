@@ -15,7 +15,7 @@ Graduando em **Engenharia de Software** na **UFG** 🎓, curioso e autodidata, e
 
 * 📚 Refazendo o curso de Machine Learning do DataTalks.Club
 * 🔬 Apoiando um projeto de pesquisa _Desenvolvimento de novos modelos computacionais para reconhecimento de texto em prescrições médicas manuscritas para manipulação e de ferramentas relacionadas_ UFG
-* 💼 Técnico de manutenção e infraestrutura no TRT 18
+
 
 ---
 
